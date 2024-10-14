@@ -1,0 +1,1 @@
+[Remod NIS2 DIY -materiaalit](https://github.com/remodoy/Remod-NIS2-DIY) © 2024 by [Remod Oy](https://remod.fi) is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/). To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
